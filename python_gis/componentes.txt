@@ -1,0 +1,16 @@
+Instalar:
+    pandas
+    ipython notebook
+    jupyterlab
+    GDAL (1)
+    Pyproj (1)
+    fiona (1)
+    shapely (1)
+    geopandas (1)
+    
+
+
+obs. updade python:    python.exe -m pip install --upgrade pip
+
+sites:
+1: https://github.com/cgohlke/geospatial-wheels/releases
